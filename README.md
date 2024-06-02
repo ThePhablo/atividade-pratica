@@ -10,3 +10,5 @@ qualquer lugar.
 
 # Imagem do Projeto
 ![Detona Ralph](https://media.discordapp.net/attachments/1071079345365463092/1207722580300267601/detona_ralph_game.png?ex=665deccd&is=665c9b4d&hm=2d5069e0749c2184ac27c720ec74c2583edd56005fd583b301dc5311028b55b5&=&format=webp&quality=lossless&width=656&height=393)
+
+# Link ![Detona Ralph ](https://thephablo.github.io/atividade-pratica)
